@@ -1,8 +1,18 @@
 ### Hi there 👋
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light,js,html,css,wasm)](https://skillicons.dev)
+### Languages I know
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,java,python,kotlin,swift,javascript,html,css,bash,mysql" />
+  </a>
+</p>
 
-
+### Skills I have
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,androidstudio,linux,flask,firebase,figma,vue,replit,git,github,bootstrap" />
+  </a>
+</p>
 <!--
 **Dark-Coders995/Dark-Coders995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
