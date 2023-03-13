@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![Header](./github-header-image.png)
 ### Languages I know
 <p align="center">
   <a href="https://skillicons.dev">
