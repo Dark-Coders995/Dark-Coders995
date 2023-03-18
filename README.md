@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 ![Header](./github-header-image.png)
-### Languages I know
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dark-Coders995&layout=compact" alt="Dark-Coders995" />
+</p> 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,java,python,kotlin,swift,javascript,html,css,bash,mysql" />
